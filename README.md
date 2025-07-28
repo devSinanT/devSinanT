@@ -1,6 +1,6 @@
 ## Hi, I´m Sinan
 
-🧠 Business informatics student at university Stuttgart<br/>
+🧠 Business informatics student at [university Stuttgart](https://www.uni-stuttgart.de/)<br/>
 👨‍💻 working at [LBBW](https://www.lbbw.de/startseite/startseite_6kyjj4koh_d.html) as a working student in IT-Governance<br/>
 ⏲️ soon starting to create projects<br/>
 ☎️ i´m building my profile on [LinkedIn](https://www.linkedin.com/in/sinan-tokkaya)<br/>
