@@ -1,11 +1,11 @@
 ## Hi, I´m Sinan
 
-🧠 Business informatics student at [University Stuttgart](https://www.uni-stuttgart.de/)<br/>
-👨‍💻 Working student in IT-Governance at [LBBW](https://www.lbbw.de/startseite/startseite_6kyjj4koh_d.html)<br/>
-⏲️ Planing to start building my own projects soon<br/>
-☎️ Currently building my profile on [LinkedIn](https://www.linkedin.com/in/sinan-tokkaya)<br/>
+🧠 Business informatics student at [University Stuttgart](https://www.uni-stuttgart.de/).<br/>
+👨‍💻 Working student in IT-Governance at [LBBW](https://www.lbbw.de/startseite/startseite_6kyjj4koh_d.html).<br/>
+⏲️ Planing to start building my own projects soon.<br/>
+☎️ Currently building my profile on [LinkedIn](https://www.linkedin.com/in/sinan-tokkaya).<br/>
 
-🎯 Passionate about combining business and technology to create smart IT solutions<br/>
+🎯 Passionate about combining business and technology to create smart IT solutions.<br/>
 
 
 # 💻 Tech Stack:
