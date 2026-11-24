@@ -96,15 +96,6 @@
 - Attacker tactics, techniques and procedures (TTPs)
 - Cyber espionage & advanced persistent threats (APTs)
 
-## Selected Projects
-
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| Homelab Infrastructure | Secure, self-hosted IT infrastructure | In Progress |
-| Personal Portfolio | Professional portfolio and CV website | In Progress |
-| Network Security Lab | Network segmentation and firewall management | Planned |
-| SIEM & Detection Lab | Security monitoring and detection engineering | Planned |
-
 ---
 
 *Continuously learning. Building. Improving.*
