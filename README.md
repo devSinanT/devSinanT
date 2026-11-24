@@ -17,7 +17,7 @@
 
 ## Current Focus
 
-- Researching AI-based alert classification and prioritization in SIEM systems
+- Researching AI-based anomaly detection and alert handling in SIEM systems
 - Designing and building a secure, self-hosted IT infrastructure
 - **Continuous Learning:** Strenghening fundamentals and expanding technical depth
 
