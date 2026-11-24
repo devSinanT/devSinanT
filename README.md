@@ -4,8 +4,7 @@
 
 *Learning through research, building through curiosity.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sinan-tokkaya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white)](PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinan-tokkaya/)
 
 ---
 
